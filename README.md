@@ -1,24 +1,8 @@
-# README
+# 研修課題2
+株式会社インフラトップ様のWebcampインターンシップ研修課題2 "アプリケーションを完成させよう" です。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 内容
+"bookers"の中のファイルをpushしてあります。12章の課題については適宜ご覧ください。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##謝罪
+提出期限ギリギリになってしまい申し訳ありません。次回からはもう少し余裕を持って提出します。
